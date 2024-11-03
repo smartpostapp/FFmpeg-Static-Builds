@@ -11,6 +11,7 @@ These builds are downloaded via our [batch](https://github.com/smartpostapp/batc
 5. Zip `bin` folder
 6. Create new release [here](https://github.com/smartpostapp/FFmpeg-Static-Builds/releases)
    - Create new tag matching build version
+   - Uploaded `bin.zip` to release
 
 ### Source
 This is a clone of the static builds from https://johnvansickle.com/ffmpeg/
