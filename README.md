@@ -1,6 +1,6 @@
 # FFmpeg-Static-Builds
 
-These builds are downloaded via our [batch](https://github.com/smartpostapp/batch/actions) pipeline before compiling and uploading to AWS Lambda.
+These builds are downloaded via our internal pipelines.
 
 ### Instructions
 1. Create empty folder called `bin` on system
